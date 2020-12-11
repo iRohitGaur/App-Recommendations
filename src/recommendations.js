@@ -23,7 +23,7 @@ export let recommendations = {
       android:
         "https://play.google.com/store/apps/details?id=org.telegram.messenger",
       ios: "https://apps.apple.com/app/telegram-messenger/id686449807",
-      rating: "9.5/10"
+      rating: "9/10"
     },
     {
       name: "Twitter",
@@ -60,7 +60,7 @@ export let recommendations = {
       android:
         "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
       ios: "https://apps.apple.com/us/app/google-drive/id507874739",
-      rating: "9.5/10"
+      rating: "9/10"
     }
   ],
 
@@ -128,7 +128,7 @@ export let recommendations = {
       android:
         "https://play.google.com/store/apps/details?id=org.telegram.messenger",
       ios: "https://apps.apple.com/app/telegram-messenger/id686449807",
-      rating: "9.5/10"
+      rating: "9/10"
     },
     {
       name: "WhatsApp",
@@ -292,7 +292,7 @@ export let recommendations = {
       android:
         "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
       ios: "https://apps.apple.com/us/app/google-drive/id507874739",
-      rating: "9.5/10"
+      rating: "9/10"
     },
     {
       name: "Microsoft OneDrive",
