@@ -13,16 +13,9 @@ export default function App() {
   }
 
   function OneCategory(props) {
-    var selectedCat = "";
-    if (props.name === category) {
-      selectedCat = "cat-one selected";
-    } else {
-      selectedCat = "cat-one";
-    }
-
     return (
       <div
-        className={selectedCat}
+        className={props.name === category ? "cat-one selected" : "cat-one"}
         onClick={() => categoryClickHandler(props.name)}
       >
         {props.name}
